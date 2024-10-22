@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.1",
+    "name": "TABSTORE",
+    "action": {
+        "default_popup": "myExtension.html",
+        "default_icon": "icons8_heavy_dollar_sign_9.svg"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}

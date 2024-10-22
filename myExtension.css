@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  padding: 10px;
+  font-family: "Courier New", Courier, monospace;
+  min-width: 450px;
+}
+
+title {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 700;
+  color: #5f9341;
+}
+
+input {
+  width: 100%;
+  color: #5f9341;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #5f9341;
+  margin-bottom: 4px;
+}
+
+input:focus {
+  outline: none;
+}
+
+#input-Btn {
+  background-color: #5f9341;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+#delete-Btn {
+  background-color: white;
+  outline: 1px solid #5f9341;
+  color: #5f9341;
+  padding: 10px 20px;
+  border: none;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+ul {
+  margin-top: 10px;
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  margin-top: 5px;
+}
+
+a {
+  color: #5f9341;
+}
+
+
+#save-TabBtn {
+  background-color: #5f9341;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  font-weight: 800;
+  cursor: pointer;
+}
