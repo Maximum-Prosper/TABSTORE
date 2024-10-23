@@ -4,8 +4,12 @@
     "name": "TABSTORE",
     "action": {
         "default_popup": "myExtension.html",
-        "default_icon": "icons8_heavy_dollar_sign_9.svg"
-    },
+        "default_icon": {
+    "16": "myIcon.svg",
+    "48": "myIcon.svg",
+    "128": "myIcon.svg"
+}
+   },
     "permissions": [
         "tabs"
     ]
